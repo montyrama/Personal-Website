@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Vipul Chhabra',
   siteDescription:
-    'Vipul chhbra is a CSD sophomore',
+    'Vipul chhbra is a CSD Undergradaute at IIIT',
   siteKeywords:
     'Vipul chhbra is a CSD sophomore',
   siteUrl: 'https://github.com/vipchhabra99/',
